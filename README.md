@@ -9,6 +9,6 @@ Use: ./waIr -x <networkName>
   
  Tested on:
   
-  Kali Linux <a href=kali.org> on LXDE
-  Kali Linux <a href=kali.org> on KDE <a href=kde.org>
-  Kali Linux <a href=kali.org> on GNOME <a href=gnome.org>
+  Kali Linux <a href=kali.org> on LXDE<br>
+  Kali Linux <a href=kali.org> on KDE <a href=kde.org><br>
+  Kali Linux <a href=kali.org> on GNOME <a href=gnome.org><br>
