@@ -2,11 +2,13 @@
 Use: ./waIr -x <networkName>
   
   
-  Requisites:
+  #Requisites:
   
  Network Manager
-
+ Aircrack Suite
   
  Tested on:
   
- Kali Linux <kali.org>
+  Kali Linux <kali.org> on LXDE
+  Kali Linux <kali.org> on KDE <kde.org>
+  Kali Linux <kali.org> on GNOME <gnome.org>
