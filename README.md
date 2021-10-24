@@ -7,8 +7,25 @@ Use: ./waIr -x <networkName>
  Network Manager
  Aircrack Suite
   
+  #Binarios [Requisitos]
+  nmcli
+  nmtui
+  airmon-ng
+  aircrack-ng
+  
+  
  Tested on:
   
-  Kali Linux <a href=kali.org> on LXDE<br>
-  Kali Linux <a href=kali.org> on KDE <a href=kde.org><br>
-  Kali Linux <a href=kali.org> on GNOME <a href=gnome.org><br>
+  Kali Linux on LXDE
+  Kali Linux on KDE
+  Kali Linux on GNOME
+
+  
+Use:
+  
+  
+  https://www.youtube.com/watch?v=UZERAcF_GQg
+  
+  
+  [Cualquier falla o problema ]
+  https://github.com/adr8vj29/waIr45590/issues/new
